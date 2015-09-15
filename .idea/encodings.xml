@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/HuabanBeautyViewer/src/main/java/edward/njust/hbv/Adapters/RecyclerAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HuabanBeautyViewer/src/main/java/edward/njust/hbv/ImageLoader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HuabanBeautyViewer/src/main/java/edward/njust/hbv/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HuabanBeautyViewer/src/main/java/edward/njust/hbv/MyScrollView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

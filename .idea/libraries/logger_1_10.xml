@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="logger-1.10">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/HuabanBeautyViewer/build/intermediates/exploded-aar/com.orhanobut/logger/1.10/res" />
+      <root url="jar://$PROJECT_DIR$/HuabanBeautyViewer/build/intermediates/exploded-aar/com.orhanobut/logger/1.10/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

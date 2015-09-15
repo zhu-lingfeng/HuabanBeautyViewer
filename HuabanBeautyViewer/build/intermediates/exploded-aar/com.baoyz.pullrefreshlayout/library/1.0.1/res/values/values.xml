@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/baoyz/Developer/GitHub/Widget/android-PullRefreshLayout/library/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <integer-array name="google_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+    </integer-array>
+    <!-- From: file:/Users/baoyz/Developer/GitHub/Widget/android-PullRefreshLayout/library/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="blue">#FF375BF1</color>
+    <color name="green">#FF34A350</color>
+    <color name="red">#FFC93437</color>
+    <color name="yellow">#FFF7D23E</color>
+    <declare-styleable name="PullRefreshLayout"><attr format="enum" name="type"><enum name="material" value="0"/><enum name="circles" value="1"/><enum name="water_drop" value="2"/><enum name="ring" value="3"/></attr><attr format="reference" name="colors"/></declare-styleable>
+</resources>

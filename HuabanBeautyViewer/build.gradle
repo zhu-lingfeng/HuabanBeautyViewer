@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "edward.njust.hbv"
+        minSdkVersion 15
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.0.0'
+    compile 'com.android.support:recyclerview-v7:21.0.3'
+    compile 'com.orhanobut:logger:1.10'
+    compile 'de.greenrobot:eventbus:2.4.0'
+    compile 'com.facebook.fresco:fresco:0.5.1'
+    compile 'com.squareup.okhttp:okhttp:2.4.0'
+    compile 'com.baoyz.pullrefreshlayout:library:1.0.1'
+    compile 'com.android.support:cardview-v7:22.1.1'
+    compile 'com.google.code.gson:gson:2.3.1'
+    compile 'jp.wasabeef:recyclerview-animators:1.2.0@aar'
+}

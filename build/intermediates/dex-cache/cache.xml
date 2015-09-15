@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-e9519cafa31d0f6a8c971a7ecdf5df05e9783438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\library-2.4.0-54814447e36415cfc06f979d2201527137a21e0b.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a6066fa93aeaf35db8806181b83af09f6972c97d.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.5.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="28df9804d10dcce9235dde6dc95e5ed9eb21f0f0">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-8533da8fa3b1a09ff3f043af7f2ca6bccd3a7951.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\okhttp-2.4.0-2d3a18eca841228786e90a1d5dd9148f34fe05dc.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.orhanobut\logger\1.10\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52723f7afc22f9a07045b861fa08e7f094ed9f66">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-31169a6660db032db4324941a0b1df767c0109a4.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.5.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cd4a2b0df827bebc39c620c3df0379655adabd8c">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-b5c323f29777cdb90eb8b7eca4a74353bb67c02b.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.baoyz.pullrefreshlayout\library\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b44f6e5da89d2f3ac9bef7e9c20a76ebf8b62c4">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-30efd6ad83516b310a4adb814d18e95b6a98fee0.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-70e88dd50abdc4b78919bed0dd01b099903cf0e6.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="55b967d31b15d92052a5ea2e407378b72d4764a7">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-0f2a7978108d82f8d2c7ee115b739b10ea259d6d.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-bfa91b8ddbc97b05f3c1e77660d97b33cbaf786f.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.5.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2fc5593ddd0c2ae29f4623e13e452c2d88bcad0">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-f3697bae5aeeb53863d7956c275fb48225ffc4dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-890dd36872b0f12c57de6067e6d8298a866d5cf5.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-fcf799d0142c6ede8bf022e1a6c48d60e5a55c87.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.4.0\ddd166d01b3158d1c00576d29f7ed15c030df719\eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\eventbus-2.4.0-c403f7f7910b5a6dc486a15b7571562500dafa80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\gson-2.3.1-c701a5c689617780b45d6ab15beb63a1270c2bb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edward.Choh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.4.0\5b72bf48563ea8410e650de14aa33ff69a3e8c35\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\okio-1.4.0-eb1eb6f056217220271417d8139056ed05e1398c.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.5.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c48f4fa9decc24778e885a147169988d4358b8e">
+        <dex dex="F:\AndroidStudioProjects\HuabanBeautyViewer1\HuabanBeautyViewer\build\intermediates\pre-dexed\debug\classes-fddf95c8fc976a6e32c285c2ceb64773e24d846a.jar" />
+    </item>
+
+</items>

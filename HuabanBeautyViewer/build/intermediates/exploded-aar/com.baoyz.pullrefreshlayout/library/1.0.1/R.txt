@@ -1,0 +1,14 @@
+int array google_colors 0x7f020000
+int attr colors 0x7f010001
+int attr type 0x7f010000
+int color blue 0x7f030000
+int color green 0x7f030001
+int color red 0x7f030002
+int color yellow 0x7f030003
+int id circles 0x7f040000
+int id material 0x7f040001
+int id ring 0x7f040002
+int id water_drop 0x7f040003
+int[] styleable PullRefreshLayout { 0x7f010000, 0x7f010001 }
+int styleable PullRefreshLayout_colors 1
+int styleable PullRefreshLayout_type 0
